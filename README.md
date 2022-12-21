@@ -5,6 +5,7 @@
 - 🤖 I’m currently studying Tensorflow as well as its application.
 - 🎮 Game Development Enthusiast and Hobbyist.
 
+<br><br>
 <h3>I have experience on handling: </h3>
 <img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />
