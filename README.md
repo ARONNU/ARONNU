@@ -38,7 +38,8 @@ src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
 <img align="left" alt="Unity" width="26px" src="https://img.icons8.com/fluency/512/unity.png"/> 
 <img align="left" alt="Renpy" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Ren%E2%80%99Py_Logo_6-13-6_200x307px.png"/>
 
-
+<br><br>
+<img align="left" alt="Renpy" width="52px" src="hehe.gif"/> 
 <!---
 ARONNU/ARONNU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
