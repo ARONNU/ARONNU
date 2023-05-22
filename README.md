@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Aronn Marc </h1>
-<h3 align="center">Aims to be a Data Scientist & Machine Learning Engineer</h3>
+<h1 align="center">Hi 👋, I'm Aronn </h1>
+<h3 align="center"></h3>
 
-- 🎓 I'm an Undergraduate Computer Science Student from the University of the East – Caloocan.
-- 🤖 I’m currently studying Tensorflow as well as its application.
-- 🎮 Game Development Enthusiast and Hobbyist.
+- 🤖 I'm currently learning Unity as well as Data Analytics.
 
 <br><br>
 <h3>I have experience on handling: </h3>
@@ -38,8 +36,17 @@ src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
 <img align="left" alt="Unity" width="26px" src="https://img.icons8.com/fluency/512/unity.png"/> 
 <img align="left" alt="Renpy" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Ren%E2%80%99Py_Logo_6-13-6_200x307px.png"/>
 
+## &#x1f4c8; My GitHub Stats
+<a href="https://github.com/ARONNU/ARONNU">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARONNU&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&" />
+</a>
+<a href="https://github.com/ARONNU/ARONNU/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ARONNU&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aronn's GitHub Stats" />
+</a>
+
+
 <br><br>
-<img align="left" alt="Renpy" width="52px" src="hehe.gif"/> 
+<img align="center" alt="Goofy Gif" width="52px" src="hehe.gif"/> 
 <!---
 ARONNU/ARONNU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
