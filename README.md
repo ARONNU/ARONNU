@@ -13,11 +13,17 @@ You can find me on <a href="https://www.linkedin.com/in/aronn-marc-duran/"><img 
 </a>
 
 ## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Windows_10-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Browser-Opera_GX 10-informational?style=flat&logo=Opera&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a))
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/GameDev-Unity-informational?style=flat&logo=unity&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/AssetCreation-Aseprite-informational?style=flat&logo=Aseprite&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Designing-Canva-informational?style=flat&logo=Canva&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Designing-Figma-informational?style=flat&logo=figma&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Chatgpt-informational?style=flat&logo=openai&logoColor=white&color=2bbc8a)
 
 
