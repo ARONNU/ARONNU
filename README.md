@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Aronn </h1>
-<h3 align="center"></h3>
-
-- 🤖 I'm currently learning Unity as well as Data Analytics.
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aronn </h1>
+<h3 align="center"> Welcome to my Github Page.
+I am an avid fan of video games and its development that is why I am currently learning unity 🎮 as a hobby. I have past experience in web designing🖼 and prototyping🤖, but I am currently trying to further enhance my skills on Data Analytics 📊.
+You can find me on <a href="https://www.linkedin.com/in/aronn-marc-duran/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width=20px ></a> and in <a href="https://twitter.com/chonkerz101"><img src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" width=30px></a>
+</h3>
 
 <br><br>
 
