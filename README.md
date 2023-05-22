@@ -4,6 +4,17 @@
 - 🤖 I'm currently learning Unity as well as Data Analytics.
 
 <br><br>
+
+## &#x1f4c8; My GitHub Stats
+<a href="https://github.com/ARONNU/ARONNU">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARONNU&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&" />
+</a>
+<a href="https://github.com/ARONNU/ARONNU/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ARONNU&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aronn's GitHub Stats" />
+</a>
+
+<br><br>
+
 <h3>I have experience on handling: </h3>
 <img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />
@@ -36,13 +47,6 @@ src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
 <img align="left" alt="Unity" width="26px" src="https://img.icons8.com/fluency/512/unity.png"/> 
 <img align="left" alt="Renpy" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Ren%E2%80%99Py_Logo_6-13-6_200x307px.png"/>
 
-## &#x1f4c8; My GitHub Stats
-<a href="https://github.com/ARONNU/ARONNU">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARONNU&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&" />
-</a>
-<a href="https://github.com/ARONNU/ARONNU/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ARONNU&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aronn's GitHub Stats" />
-</a>
 
 
 <br><br>
