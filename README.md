@@ -1,10 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aronn </h1>
-<h3 align="center"> Welcome to my Github Page.
+<p align="center"> Welcome to my Github Page.
 I am an avid fan of video games and its development that is why I am currently learning unity 🎮 as a hobby. I have past experience in web designing🖼 and prototyping🤖, but I am currently trying to further enhance my skills on Data Analytics 📊.
-You can find me on <a href="https://www.linkedin.com/in/aronn-marc-duran/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width=20px ></a> and in <a href="https://twitter.com/chonkerz101"><img src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" width=30px></a>
-</h3>
-
-<br><br>
+You can find me on <a href="https://www.linkedin.com/in/aronn-marc-duran/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width=20px ></a> and in <a href="https://twitter.com/arumaril"><img src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" width=30px></a>
+</p>
 
 ## &#x1f4c8; My GitHub Stats
 <a href="https://github.com/ARONNU/ARONNU">
@@ -51,7 +49,7 @@ src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
 
 
 <br><br>
-<img align="center" alt="Goofy Gif" width="52px" src="hehe.gif"/> 
+# <img align="center" alt="Goofy Gif" width="52px" src="hehe.gif"/> 
 <!---
 ARONNU/ARONNU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
