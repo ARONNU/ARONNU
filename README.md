@@ -26,10 +26,9 @@ You can find me on <a href="https://www.linkedin.com/in/aronn-marc-duran/"><img 
 ![](https://img.shields.io/badge/Designing-Figma-informational?style=flat&logo=figma&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Chatgpt-informational?style=flat&logo=openai&logoColor=white&color=2bbc8a)
 
-
-
-<br><br>
-# <img align="center" alt="Goofy Gif" width="52px" src="hehe.gif"/> 
+<p align="center">
+  <img align="left" alt="Goofy Gif" width="64px" src="hehe.gif"/> 
+</p>
 <!---
 ARONNU/ARONNU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
