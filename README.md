@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aronn </h1>
 <p align="center"> Welcome to my Github Page.
-I'm a  developer from the Philippines <img src="<img src="https://www.seekpng.com/png/detail/102-1020321_philippine-flag-png-clipart-emoji-new-zealand-flag.png" alt="Philippine Flag Png Clipart - Emoji New Zealand Flag@seekpng.com">" width=20px > and an avid fan of video games and its development that is why I am currently learning unity 🎮 as a hobby. I have past experience in web designing🖼 and prototyping🤖, but I am currently trying to further enhance my skills on Data Analytics 📊.
+I'm a  developer from the Philippines <img src="https://www.seekpng.com/png/detail/102-1020321_philippine-flag-png-clipart-emoji-new-zealand-flag.png" alt="Philippine Flag Png Clipart - Emoji New Zealand Flag@seekpng.com" width=20px > and an avid fan of video games and its development that is why I am currently learning unity 🎮 as a hobby. I have past experience in web designing🖼 and prototyping🤖, but I am currently trying to further enhance my skills on Data Analytics 📊.
 You can find me on <a href="https://www.linkedin.com/in/aronn-marc-duran/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width=20px ></a> and in <a href="https://twitter.com/arumaril"><img src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" width=30px></a>
 </p>
 
