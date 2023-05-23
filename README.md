@@ -1,8 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aronn </h1>
-<p align="center"> Welcome to my Github Page.
-I'm a  developer from the Philippines <img src="https://em-content.zobj.net/thumbs/160/apple/76/flag-for-philippines_1f1f5-1f1ed.png" alt="Philippine Flag Png Clipart - Emoji New Zealand Flag@seekpng.com" width=20px > and an avid fan of video games and its development that is why I am currently learning unity 🎮 as a hobby. I have past experience in web designing🖼 and prototyping🤖, but I am currently trying to further enhance my skills on Data Analytics 📊.
-You can find me on <a href="https://www.linkedin.com/in/aronn-marc-duran/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width=20px ></a> and in <a href="https://twitter.com/arumaril"><img src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" width=30px></a>
-</p>
+<p align="center"> 
+  Welcome to my GitHub Page. I am a developer based in the Philippines <img src="https://e7.pngegg.com/pngimages/643/90/png-clipart-philippine-flag-flag-of-the-philippines-emoji-filipino-philippines-english-flag-thumbnail.png" alt="Philippine Flag Png Clipart - Emoji New Zealand Flag@seekpng.com" width=20px >. I am passionate about video games and game development 🎮, which is why I am currently learning Unity as a hobby. I have previous experience in web design 🖼 and prototyping 🤖, and now I am focused on expanding my skills in Data Analytics 📊. Feel free to connect with me on  <a href="https://www.linkedin.com/in/aronn-marc-duran/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width=20px ></a> & <a href="https://twitter.com/arumaril"><img src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" width=30px></a>
+</p> and explore my projects here on GitHub.
 
 ## &#x1f4c8; My GitHub Stats
 <a href="https://github.com/ARONNU/ARONNU">
