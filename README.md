@@ -20,12 +20,9 @@ and explore my projects here on GitHub.</p>
 
 
 ## 📈 Check My GitHub Stats
-<a href="https://github.com/ARONNU/ARONNU">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARONNU&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&" />
-</a>
-<a href="https://github.com/ARONNU/ARONNU">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ARONNU&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aronn's GitHub Stats" />
-</a>
+
+![Aronn's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARONNU&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARONNU&langs_count=8&theme=dark)](https://github.com/ARONNU/github-readme-stats)
 <br>
 
 <p align="center">
