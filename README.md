@@ -26,6 +26,17 @@ and explore my projects here on GitHub.</p>
 <a href="https://github.com/ARONNU/ARONNU/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ARONNU&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aronn's GitHub Stats" />
 </a>
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=ARONNU&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=ARONNU&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=ARONNU&show_icons=true" />
+</picture>
 
 <br>
 
