@@ -20,8 +20,7 @@ and explore my projects here on GitHub.</p>
 
 
 ## 📈 Check My GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARONNU&hide_progress=true)](https://github.com/ARONNU/github-readme-stats)(layout=donut)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARONNU&layout=donut-vertical)](https://github.com/ARONNU/github-readme-stats)
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=ARONNU&show_icons=true&theme=dark"
